@@ -17,10 +17,10 @@
     <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
 
     <!--=============== SWIPER CSS ===============-->
-    <link rel="stylesheet" href="{{ asset('build') }}/assets/css/swiper-bundle.min.css">
+    @include('components.ui.swiper-bundle')
 
     <!--=============== CSS ===============-->
-    <link rel="stylesheet" href="{{ asset('build') }}/assets/css/styles.css">
+    @include('components.ui.style')
 
     <title>Andereyan's Portfolio</title>
 </head>
