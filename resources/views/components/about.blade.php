@@ -3,8 +3,8 @@
     <h2 class="section__title">Tentang Saya</h2>
 
     <div class="about__container container grid">
-        <img src="https://drive.usercontent.google.com/download?id=1ce_tFcL3TxD9qTMz3VSP76iM5vE9QKpd" alt=""
-            class="about__img">
+        <img src="https://www.googleapis.com/drive/v3/files/1ce_tFcL3TxD9qTMz3VSP76iM5vE9QKpd?alt=media&key=AIzaSyD-zGbT5Y0ldXjnJfQCL4B472VsCN0d6W4"
+            alt="Andereyan's About Image" class="about__img">
 
         <div class="about__data">
             <div class="about__info">
