@@ -14,9 +14,9 @@
     Pink: hsl(356, 66%, 75%)
     Teal: hsl(174, 63%, 62%)
 */
-        --first-hue: 250;
-        --sat: 66%;
-        --lig: 75%;
+        --first-hue: 207;
+        --sat: 90%;
+        --lig: 60%;
         --second-hue: 219;
         --first-color: hsl(var(--first-hue), var(--sat), var(--lig));
         --first-color-alt: hsl(var(--first-hue), var(--sat), 71%);
@@ -843,6 +843,7 @@ the website, in light theme
     /*=============== FOOTER ===============*/
     .footer {
         background-color: var(--first-color);
+        border-radius: 1.8rem 1.8rem 0px 0px;
     }
 
     .footer__container {

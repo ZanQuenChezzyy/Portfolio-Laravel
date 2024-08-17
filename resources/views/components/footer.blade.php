@@ -1,5 +1,5 @@
 <footer class="footer">
-    <div class="footer__container container">
+    <div class="footer__container">
         <h1 class="footer__title">nama mu</h1>
 
         <ul class="footer__list">

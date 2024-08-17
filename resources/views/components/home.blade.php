@@ -3,7 +3,7 @@
         <div class="home__data">
             <span class="home__greeting">Hello, I'm</span>
             <h1 class="home__name">Andereyan Muhammat</h1>
-            <h3 class="home__education">Frontend Developer</h3>
+            <h3 class="home__education">Website Developer | UI/UX Designer | Graphic Designer</h3>
 
             <div class="home__button">
                 <a download="" href="assets/pdf/nama mu-Cv.pdf" class="button button--ghost">
@@ -19,14 +19,14 @@
         </div>
 
         <div class="home__social">
-            <a href="#" target="_blank" class="home__social-link">
-                <i class='bx bxl-linkedin'></i>
+            <a href="https://instagram.com/whitechezzy" target="_blank" class="home__social-link">
+                <i class='bx bxl-instagram'></i>
             </a>
             <a href="#" target="_blank" class="home__social-link">
                 <i class='bx bxl-github'></i>
             </a>
             <a href="#" target="_blank" class="home__social-link">
-                <i class='bx bxl-dribbble'></i>
+                <i class='bx bxl-linkedin'></i>
             </a>
         </div>
 

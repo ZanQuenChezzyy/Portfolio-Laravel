@@ -1,6 +1,6 @@
 <section class="about section" id="about">
     <span class="section__subtitle">My Intro</span>
-    <h2 class="section__title">About Me</h2>
+    <h2 class="section__title">Tentang Saya</h2>
 
     <div class="about__container container grid">
         <img src="{{ asset('build') }}/assets/img/about.jpg" alt="" class="about__img">

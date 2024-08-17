@@ -1,6 +1,6 @@
 <header class="header" id="header">
     <nav class="nav container">
-        <a href="#" class="nav__logo">Andereyan Muhammat</a>
+        <a href="#" class="nav__logo">ZanQuen's</a>
 
         <div class="nav__menu">
             <ul class="nav__list">
