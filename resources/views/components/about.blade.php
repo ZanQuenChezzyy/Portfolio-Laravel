@@ -3,7 +3,7 @@
     <h2 class="section__title">Tentang Saya</h2>
 
     <div class="about__container container grid">
-        <img src="https://www.googleapis.com/drive/v3/files/1ce_tFcL3TxD9qTMz3VSP76iM5vE9QKpd?alt=media&key=AIzaSyD-zGbT5Y0ldXjnJfQCL4B472VsCN0d6W4"
+        <img src="https://www.googleapis.com/drive/v3/files/1ce_tFcL3TxD9qTMz3VSP76iM5vE9QKpd?alt=media&key={{ config('app.drive_api') }}"
             alt="Andereyan's About Image" class="about__img">
 
         <div class="about__data">

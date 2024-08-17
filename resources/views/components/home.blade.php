@@ -15,7 +15,8 @@
         </div>
 
         <div class="home__handle">
-            <img src="assets/img/perfil.png" alt="" class="home__img">
+            <img src="https://www.googleapis.com/drive/v3/files/1WqdWvmsl5J4QApdb6bVjHKc6z7iDFqS_?alt=media&key={{ config('app.drive_api') }}"
+                alt="" class="home__img">
         </div>
 
         <div class="home__social">
